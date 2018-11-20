@@ -17,7 +17,7 @@ import org.firstinspires.ftc.teamcode.util.DashboardUtil;
  * Created by Adam on 2/17/2018.
  */
 
-@TeleOp(name = "Mecanum Drive", group = "Adam")
+@TeleOp(name = "Mecanum Test Drive", group = "Adam")
 
 public class MecanumTestDrive extends LinearOpMode {
 
